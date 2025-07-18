@@ -37,4 +37,8 @@
 #### Fashion and Personal Care show the highest discounting activity, possibly due to overstock or seasonality.
 ### Top 5 Products by Rating x Reviews
 #### These top performers should be used in featured placements, promotions, and email campaigns.
+[Amazon case study3.xlsx](https://github.com/user-attachments/files/21323526/Amazon.case.study3.xlsx)
+
+
+
 
